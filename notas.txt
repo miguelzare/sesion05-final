@@ -1,0 +1,51 @@
+PC1
+Intel Core i5-7500 3.4 GHz a 3.8 GHz, 4 núcleos
+RAM 16 GB DDR4 / Disco Duro SSD 512GB + HDD 1 TB
+Video 4 GB AMD Radeon RX560 dedicado 
+DVD RW, WiFI, Bluetooth, Teclado y mouse.
+Windows 10 Home 
+S/. 3,999.00
+
+PC2
+Intel ® Core ™ i7-8700 3.2 / 4.6GHz, 12 MB Cache - 6 Núcleos
+RAM 16 GB DDR4-2666
+SSD 256GB + Disco Duro 1TB 7200rpm 
+Video 2 GB Nvidia GeForce GT 730 dedicado
+DVD RW, WiFI, Bluetooth, Teclado y mouse.
+Windows 10 Home 
+S/. 4,499.00
+PC3
+Intel Core i7-10700F 2.9 / 4.8GHz, 8 núcleos, 16 MB de Cache - 10th Generación
+RAM: 16GB DDR4-3000 / Disco Sólido SSD 512GB M.2 NVMe PCIe 
+Video NVIDIA GeForce RTX 2060 -  6 GB GDDR6
+Gabinete con iluminación RGB con facilidad para actualizar componentes, Wi-FI 6, Bluetooth.
+Windows 10 Home
+S/. 7,299.00
+
+laptop1
+AMD Athlon Gold 3150U 2.4 / 3.3 GHz, 2 núcleos
+Memoria Ram 4 GB DDR4 / Disco sólido SSD 128GB
+Pantalla 14" WLED Full HD antirreflejo con micro-borde 
+Wi-FI, Bluetooth, HDMI, Peso 1.60 Kg
+Windows 10 Pro
+S/. 1,799.00
+
+laptop2
+ntel Core i5-1135G7 ( 2,4 / 4,2 GHz, 4 núcleos, Caché de 8 MB) - 11va Generación
+RAM : 8 GB DDR4-3200 MHz 
+Disco Duro: SSD 256GB  
+Pantalla LED 14 "HD (1366 x 768) TN 220 nits Antirreflejo
+Wi-FI Duan Band, Bluetooth 5.1
+Diseño refinado con acabado en aluminio
+Altavoces optimizados con tecnología Dolby Audio 
+Windows 10 Home SP
+S/. 2,399.00
+
+laptop3
+Intel Core i7-11800H 2.3 / 4.6 GHz, 8 núcleos - 11 ava generación
+RAM 16 GB DDR4 / Disco Sólido SSD 512GB PCIe
+Pantalla LED 17.3 "Full HD IPS a 144 Hz 
+Video Nvidia GeForce RTX 3050Ti  con 4 GB GDDR6 dedicado
+Teclado retroiluminado gaming, Wi-FI 6, Bluetooth, USB Tipo C
+Windows 10 Home
+S/. 6,199.00
